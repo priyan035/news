@@ -1,0 +1,316 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 10,
+        "name": "Login Functionality",
+        "description": "",
+        "id": "adding-new-employee-details;login-functionality;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7478062400,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Launch the url",
+            "match": {
+              "location": "Stepdefinition_Report.user_Launch_the_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 277463500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enter the \"adinm@12\" in UserName Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "adinm@12",
+                  "offset": 16
+                }
+              ],
+              "location": "Stepdefinition_Report.user_enter_the_in_UserName_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 193001900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter the \"admin123\" in password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 16
+                }
+              ],
+              "location": "Stepdefinition_Report.user_enter_the_in_password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 134180000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click the Login Button And It Navigate To Home Page",
+            "match": {
+              "location": "Stepdefinition_Report.user_click_the_Login_Button_And_It_Navigate_To_Home_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "Login Functionality",
+        "description": "",
+        "id": "adding-new-employee-details;login-functionality;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5032203200,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Launch the url",
+            "match": {
+              "location": "Stepdefinition_Report.user_Launch_the_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 147851800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enter the \"denim@34\" in UserName Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "denim@34",
+                  "offset": 16
+                }
+              ],
+              "location": "Stepdefinition_Report.user_enter_the_in_UserName_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 160122800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter the \"denim123\" in password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "denim123",
+                  "offset": 16
+                }
+              ],
+              "location": "Stepdefinition_Report.user_enter_the_in_password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 107939500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click the Login Button And It Navigate To Home Page",
+            "match": {
+              "location": "Stepdefinition_Report.user_click_the_Login_Button_And_It_Navigate_To_Home_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Login Functionality",
+        "description": "",
+        "id": "adding-new-employee-details;login-functionality;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4502168100,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Launch the url",
+            "match": {
+              "location": "Stepdefinition_Report.user_Launch_the_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 106414900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enter the \"opadi\" in UserName Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "opadi",
+                  "offset": 16
+                }
+              ],
+              "location": "Stepdefinition_Report.user_enter_the_in_UserName_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 139096000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter the \"opr123\" in password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "opr123",
+                  "offset": 16
+                }
+              ],
+              "location": "Stepdefinition_Report.user_enter_the_in_password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 63168700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click the Login Button And It Navigate To Home Page",
+            "match": {
+              "location": "Stepdefinition_Report.user_click_the_Login_Button_And_It_Navigate_To_Home_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Login Functionality",
+        "description": "",
+        "id": "adding-new-employee-details;login-functionality;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4420626100,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Launch the url",
+            "match": {
+              "location": "Stepdefinition_Report.user_Launch_the_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 110992700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enter the \"Admin\" in UserName Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 16
+                }
+              ],
+              "location": "Stepdefinition_Report.user_enter_the_in_UserName_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 146165100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter the \"admin123\" in password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 16
+                }
+              ],
+              "location": "Stepdefinition_Report.user_enter_the_in_password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 72537500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click the Login Button And It Navigate To Home Page",
+            "match": {
+              "location": "Stepdefinition_Report.user_click_the_Login_Button_And_It_Navigate_To_Home_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Adding new Employee Details",
+    "description": "",
+    "id": "adding-new-employee-details",
+    "keyword": "Feature",
+    "uri": "Orange.feature"
+  }
+]
